@@ -9,6 +9,7 @@ Ao introduzir a Lemna na alimentação dos animais de campo, estamos aproveitand
 Tecnologias 
 - JAVA
 - Oracle
+- React Native
 - Azure (infra)
 
 ![Group 1](https://github.com/brunohashimotto/GreenProtein/assets/15908424/9fb52479-2971-44f9-9273-71592d561e59)
