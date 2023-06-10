@@ -2,7 +2,9 @@
 
 Atividade Global solution 1 2023 2sio – IAs generativas, Inovação e Tecnologia ajudando a solucionar os problemas da Fome mundial e da escassez de alimentos, promovendo a agricultura sustentável!
 
-A ideia central do projeto é utilizar a alga Lemna como materia prima para criação de ração animal. Acredito que essa solução possa trazer benefícios significativos. Neste repositório, abaixo coloquei os primeiros esboços do projeto e conforme for evoluindo irei disponibilizar para vocês.
+A Lemna é uma planta de rápido crescimento, capaz de se reproduzir e se multiplicar rapidamente em corpos d'água, como lagos e tanques. Ela tem a capacidade de absorver nutrientes da água, o que contribui para a sua nutrição e crescimento saudável. Além disso, a Lemna possui um alto teor de proteínas, tornando-a uma fonte valiosa de nutrientes essenciais para os animais.
+
+Ao introduzir a Lemna na alimentação dos animais de campo, estamos aproveitando os benefícios nutricionais dessa planta e criando um ciclo sustentável de produção de alimentos. Os animais consomem a Lemna como parte de sua dieta, transformando-a em uma ração enriquecida com nutrientes e proteínas. Posteriormente, essa ração pode ser utilizada para alimentar os animais e, finalmente, ser consumida pelos seres humanos.
 
 Tecnologias 
 - JAVA
